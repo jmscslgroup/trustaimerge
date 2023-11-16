@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "=========================="
-echo "Starting App trustaimerge for {APP_PRETTY_NAME}"
+echo "Starting App trustaimerge for {APP_NAME_PRETTY}"
 
 
 systemctl start trustaimerge
